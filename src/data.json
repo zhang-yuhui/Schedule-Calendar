@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Ethen",
+        "calendar": {
+            "monday": [
+                {"start_time": "09:00", "end_time": "09:50", "title": "CHEM-115A", "location": "SGM 101"},
+                {"start_time": "10:00", "end_time": "10:50", "title": "BISC-121", "location": "ZHS 159"},
+                {"start_time": "13:00", "end_time": "13:50", "title": "WRIT-150", "location": "THH 113"},
+                {"start_time": "14:00", "end_time": "15:50", "title": "GERO-310", "location": "GER 124"}
+            ],
+            "tuesday": [
+                {"start_time": "11:00", "end_time": "12:25", "title": "BISC-121 LAB", "location": "ZHS 369"},
+                {"start_time": "12:30", "end_time": "15:20", "title": "QBIO-305 LAB", "location": "SGM 133C"}
+            ],
+            "wednesday": [
+                {"start_time": "09:00", "end_time": "09:50", "title": "CHEM-115A", "location": "SGM 101"},
+                {"start_time": "10:00", "end_time": "10:50", "title": "BISC-121", "location": "ZHS 159"},
+                {"start_time": "13:00", "end_time": "13:50", "title": "WRIT-150", "location": "THH 113"},
+                {"start_time": "14:00", "end_time": "15:50", "title": "GERO-310", "location": "GER 124"}
+            ],
+            "thursday": [
+                {"start_time": "11:00", "end_time": "12:25", "title": "BISC-121 LAB", "location": "ZHS 369"},
+                {"start_time": "15:30", "end_time": "16:50", "title": "CHEM-115A QUIZ", "location": "SGM 101"}
+            ],
+            "friday": [
+                {"start_time": "09:00", "end_time": "09:50", "title": "CHEM-115A", "location": "SGM 101"},
+                {"start_time": "10:00", "end_time": "10:50", "title": "BISC-121", "location": "ZHS 159"},
+                {"start_time": "13:00", "end_time": "13:50", "title": "WRIT-150", "location": "THH 113"}
+            ],
+            "saturday": [],
+            "sunday": []
+        }
+    },
+    {
+        "name": "Ray",
+        "calendar": {
+            "monday": [
+                {"start_time": "12:00", "end_time": "12:50", "title": "MATH-229", "location": "ZHS 159"},
+                {"start_time": "14:00", "end_time": "15:20", "title": "GESM-130", "location": "GFS 202"},
+                {"start_time": "18:30", "end_time": "19:50", "title": "CSCI-170", "location": "SGM 101"}
+            ],
+            "tuesday": [
+                {"start_time": "08:00", "end_time": "09:20", "title": "CSCI-103", "location": "DMC 101"},
+                {"start_time": "10:00", "end_time": "10:50", "title": "MATH-229", "location": "GFS 228"},
+                {"start_time": "19:00", "end_time": "20:50", "title": "CSCI-170 QUIZ", "location": "TBA"}
+            ],
+            "wednesday": [
+                {"start_time": "10:30", "end_time": "11:20", "title": "MPKS-300", "location": "UGW P19"},
+                {"start_time": "12:00", "end_time": "12:50", "title": "MATH-229", "location": "ZHS 159"},
+                {"start_time": "14:00", "end_time": "15:20", "title": "GESM-130", "location": "GFS 202"},
+                {"start_time": "18:30", "end_time": "19:50", "title": "CSCI-170", "location": "SGM 101"}
+            ],
+            "thursday": [
+                {"start_time": "08:00", "end_time": "09:20", "title": "CSCI-103", "location": "DMC 101"},
+                {"start_time": "10:00", "end_time": "10:50", "title": "MATH-229", "location": "GFS 228"},
+                {"start_time": "19:00", "end_time": "20:50", "title": "CSCI-103 QUIZ", "location": "TBA"}
+            ],
+            "friday": [
+                {"start_time": "12:00", "end_time": "12:50", "title": "MATH-229", "location": "ZHS 159"},
+                {"start_time": "14:00", "end_time": "15:50", "title": "CSCI-170 DISCUSSION", "location": "SOS B44"},
+                {"start_time": "16:00", "end_time": "17:50", "title": "CSCI-103", "location": "SAL 126"}
+            ],
+            "saturday": [],
+            "sunday": []
+        }
+    },
+    {
+        "name": "Justin",
+        "calendar": {
+            "monday": [
+                {"start_time": "12:00", "end_time": "13:50", "title": "ACAD-176: Rapid Visualization", "location": "IYH 210"},
+                {"start_time": "14:00", "end_time": "15:50", "title": "ACAD-181: Disruptive Innovation", "location": "IYH 210/211"},
+                {"start_time": "18:30", "end_time": "19:50", "title": "GESM-120: That Teenage Feeling", "location": "DMC 208"}
+            ],
+            "tuesday": [
+                {"start_time": "14:00", "end_time": "15:50", "title": "ACAD-190: Making With Materials", "location": "IYH 110"}
+            ],
+            "wednesday": [
+                {"start_time": "12:00", "end_time": "13:50", "title": "ACAD-176: Rapid Visualization", "location": "IYH 210"},
+                {"start_time": "14:00", "end_time": "15:50", "title": "ACAD-181: Disruptive Innovation", "location": "IYH 210/211"},
+                {"start_time": "18:30", "end_time": "19:50", "title": "GESM-120: That Teenage Feeling", "location": "DMC 208"}
+            ],
+            "thursday": [],
+            "friday": [
+                {"start_time": "14:00", "end_time": "15:50", "title": "ACAD-174: Innovator's Forum", "location": "IYH 210/211"}
+            ],
+            "saturday": [],
+            "sunday": []
+        }
+    },
+    {
+        "name": "William",
+        "calendar": {
+            "monday": [
+                {"start_time": "09:00", "end_time": "11:30", "title": "ART-105"},
+                {"start_time": "16:00", "end_time": "17:15", "title": "CRIT-150"}
+            ],
+            "tuesday": [
+                {"start_time": "09:00", "end_time": "11:30", "title": "ART-105"},
+                {"start_time": "18:30", "end_time": "19:50", "title": "GESM-150"}
+            ],
+            "wednesday": [
+                {"start_time": "09:00", "end_time": "11:30", "title": "ART-105"},
+                {"start_time": "16:00", "end_time": "17:15", "title": "CRIT-150"},
+                {"start_time": "18:00", "end_time": "19:50", "title": "GESM-150 LAB"}
+            ],
+            "thursday": [
+                {"start_time": "09:00", "end_time": "11:30", "title": "ART-105"},
+                {"start_time": "15:00", "end_time": "17:30", "title": "DES-203"}
+            ],
+            "friday": [
+                {"start_time": "11:00", "end_time": "11:45", "title": "CRIT-150 DISCUSSION"}
+            ],
+            "saturday": [],
+            "sunday": []
+        }
+    }
+]
