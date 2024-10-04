@@ -2,7 +2,7 @@
 
 A Calendar for the class schedule 
 
-This project was built with [Create React App](https://github.com/facebook/create-react-app) and [Tailwindcss](https://github.com/tailwindlabs/tailwindcss).
+This project was built with [React](https://github.com/facebook/react) and [Tailwindcss](https://github.com/tailwindlabs/tailwindcss).
 
 ## Build 
 
